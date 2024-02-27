@@ -22,8 +22,8 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 
-Developed by:varsha.g
-REG NO:212222230166
+Developed by: Mena Rossini R
+REG NO:212222040099
 
 ```
 import pandas as pd
